@@ -1,5 +1,7 @@
 # Follow-Me-Robot Prototype
 
+Images:
+https://github.com/kianabbasi/follow-me-robot/issues/1#issue-1868333428
 
 # Overview
 This project involves programming an Arduino Uno to create a motion-following robot capable of tracking and responding to nearby objects and people. The robot utilizes a combination of DC motors, motor driver shield, infrared sensors, ultrasonic sensors, and servo motors to achieve its functionality.
